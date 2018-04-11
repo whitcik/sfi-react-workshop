@@ -1,0 +1,17 @@
+.mail-row__body {
+  max-width: 300px;
+}
+
+.mail-row--collapsed .mail-row__body {
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+.mail-row .btn-toolbar {
+  white-space: nowrap;
+}
+
+.mail-row .btn-toolbar .btn {
+  float: initial;
+}
