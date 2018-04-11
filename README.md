@@ -1,5 +1,8 @@
 # The application was created for the needs of workshops on SFI
 
+### `npm install`
+Installs all dependencies, should be done after downloading the project
+
 ### `npm start` or `yarn start`
 
 Runs the app in development mode.<br>
